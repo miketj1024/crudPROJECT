@@ -1,0 +1,29 @@
+{
+  "shoeRoster": [
+    {
+      "brandName": "croc/reg/white",
+      "size": "k 4",
+      "id": 18
+    },
+    {
+      "brandName": "nike/airforce1/white",
+      "size": "mens 13",
+      "id": 19
+    },
+    {
+      "brandName": "nike/jordan 13/redblk",
+      "size": "12",
+      "id": 20
+    },
+    {
+      "brandName": "reebok/lows/12",
+      "size": "k 5",
+      "id": 21
+    },
+    {
+      "brandName": "gucci/low/redgrn",
+      "size": "12m",
+      "id": 22
+    }
+  ]
+}
